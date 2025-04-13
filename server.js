@@ -671,7 +671,7 @@ bot.on('message', async (msg) => {
             }
          }
       }
-s
+
       // else if (foundUser && !foundUser.premium) {
       //    const priceList = await model.priceList()
       //    const priceKeyboard = priceList
