@@ -670,7 +670,7 @@ bot.on('message', async (msg) => {
 
             }
          }
-      } else {
+      } else if (foundUser && !foundUser.premium) {
          const priceList = await model.priceList()
          const priceKeyboard = priceList
             .filter(item => !(foundUser.used_free && item.price == 0))
