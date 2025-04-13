@@ -1,0 +1,61 @@
+{
+	"startText": "Xush kelibsiz! 👋\n\n📊 Xisobchi.ai – bu shaxsiy moliyalaringizni avtomatik boshqaruvchi AI yordamchi.\n\n💡 Nimalar qila oladi?:\n- Kirim-chiqimlaringizni tahlil qiladi 📊\n- Xarajatlaringizni toifalarga ajratadi 🏷\n- Moliyaviy intizomni shakllantirishga yordam beradi ✅\n\n⏩ Davom etish uchun pastdagi tugma orqali telefon raqamingizni yuboring.",
+	"sendContactBtn": "📞 Yuborish",
+	"contactRegisterError": "Noto'g'ri, davom etish uchun aynan pastdagi tugma orqali kontaktingizni yuboring..",
+	"askNameText": "Ajoyib, endi tanishib olamiz, ismingiz nima ?",
+	"successfullyRegister": "✅ <b>Ro'yxatdan o'tib, tanishib ham oldik.\nQuyida Xisobchi.ai tariflari bilan tanishib, o'zingizga mosini tanlab - xarajatlaringizni boshqarishni boshlashingiz mumkin</b>\n\n🏷Agar hali ishonchingiz komil bo'lmasa, 3 kunlik bepul sinov muddatidan foydalanishingiz mumkin. ",
+
+	"menuText": "Asosiy sahifa: Kirim-chiqimingizni shu yerda istalgan shaklda, matn yoki ovozli holatda yuborsangiz, men xisob kitoblarga qo'shib qo'yaman 📊 ",
+
+	"reportsBtn": "📊  Xisobotlar",
+	"reportMonthlyText": "<b>%monthName% oyi xisobotlari:</b>",
+	"reportInputText": "🟢 Kirimlar:",
+	"reportOutputText": "🔴 Chiqimlar:",
+	"reportCatgoriesText": "<b>Kategoriyar bo’yicha:</b>",
+	"otherMonthsBtn": "📆  Boshqa oylarni ko’rish",
+	"seeMoreBtn": "⏬️️️️️️ Batafsil ko’rish",
+	"chooseMonthText": "O'zingizga kerakli oyni tanlang:",
+	"seeMoreText": "<b>%monthName% oyi xisobotlari:</b>",
+
+	"balancesBtn": "💰 Mening balansim",
+	"balancesText": "<b>💰 Balanslar ro’yxati:</b>",
+
+	"usageInformationBtn": "📙 Foydalanish yo’qnomasi",
+
+	"debtBtn": "💸 Qarzlar",
+	"debtText": "<b>💸 Qarzlar ro’yxati:</b>",
+	"debtGivenText": "Berilgan:",
+	"debtWhoText": "Kimga:",
+	"debtAmountText": "Qancha:",
+	"debtEstimateText": "Qoldi:",
+	"debtDeadlineText": "Qachon qaytarish kerak:",
+
+	"shareBtn": "🤝 Do’stni taklif qilish",
+	"shareBtnText": "🤝 Do'stingizni taklif qilganingiz uchun sizga bonus berishimiz kerak, lekin bu tizimni endi ishlab chiqmoqdamiz.\n\nShu sabab, Xisobchi AI sizga yoqsa, yaqinlaringiz bilan ulashishingiz albatta yaxshi :)\n\n t.me/xisobchiai_bot",
+
+	"premiumBtn": "💎 Premium",
+	"premiumText": "💎 O'zingizga mos tarifni tanlang va Xisobchi AI dan bahramand bo'ling.",
+	"premiumExpiredText": "Premium' tarifingiz tugash muddati:  ",
+
+	"backBtn": "⬅️ Ortga qaytish",
+
+	"priceText": "Siz %title% tarifni tanladingiz. Tarif narxi atiga %price% ni tashkil qiladi. Endi o’zingizga qulay turda to'lovni amalga oshiring: ",
+	"clickText": "Click ->",
+	"paymeText": "Payme ->",
+	"uzumText": "Uzum -> ",
+	"successfullyPaid": "✅ To’lovingiz muvaffaqiyatli amalga oshdi. Kirim va chiqimlaringizni istalgan ko'rinishda (ovoz, matn) yuborishni boshlashingiz mumkin, yordamchingiz esa yozib boraveradi.",
+
+	"notFoundData": "Topilmadi...",
+
+	"addReportText": "<b>Xisobotga qo’shildi </b>✔️",
+	"addReportDateText": "Sana:",
+	"addReportAmountText": "Summa:",
+	"addReportCategoryText": "Kategoriya:",
+	"addReportCommentText": "Izoh:",
+	"cancelBtn": "Bekor qilish 🚫",
+	"cancelText": "Bekor qilindi 🚫",
+
+	"cronTextBefore2day": "Premium obunangiz tugashiga 2 kun qoldi, davom ettirish uchun tarif to'lovini amalga oshirishingiz lozim",
+	"cronTextBefore1day": "Premium obunangiz tugashiga 1 kun qoldi, davom ettirish uchun tarif to'lovini amalga oshirishingiz lozim, aks holda botdan foydalana olmaysiz.",
+	"cronTextStoped": "Sizning premium obunaningiz tugadi. Botdan foydalanish uchun, kerakli tarifni tanlab, to'lovni amalga oshiring."
+}
